@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Input Data Athus",
-  description: "Input Data Athus Sementara oleh Gojit",
+  description: "Input Data Athus Sementara PREE BRIN",
   icons: {
     icon: "public/BRIN-Logo.svg",
   },
