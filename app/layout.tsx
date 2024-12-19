@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Input Data Athus",
   description: "Input Data Athus Sementara oleh Gojit",
+  icons: {
+    icon: "public/BRIN-Logo.svg",
+  },
 };
 
 export default function RootLayout({
