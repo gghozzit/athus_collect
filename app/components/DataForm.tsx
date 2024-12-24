@@ -48,7 +48,7 @@ type FormData = {
 }
 
 const locationOptions = [
-  { value: "-6.9586756,110.2278471", label: "SDN Mangunharjo" },
+  { value: "-6.9586756,110.2278471", label: "Kantor DLH Kota Semarang" },
   { value: "-7.0019305,110.3358617", label: "SD Negeri Bringin 02" },
   { value: "-6.9803227,110.3871209", label: "SD Negeri Karangayu 02" },
   { value: "-7.0071388,110.4034657", label: "Kantor Kecamatan Gajah Mungkur" },
