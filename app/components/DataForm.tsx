@@ -60,6 +60,7 @@ const locationOptions = [
   { value: "-7.0637616,110.3466957", label: "SD Negeri Jatirejo" },
   { value: "-7.0671702,110.3605648", label: "Kelurahan Nongkosawit" },
   { value: "-7.106038,110.3866514", label: "SD Negeri Sumurejo 01" },
+  { value: "-7.0841554,110.4203815", label: "SD Negeri Gedawang 01" },
 ]
 
 export function RainDataForm() {
